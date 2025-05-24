@@ -1,0 +1,27 @@
+# 📝 TODO App
+
+A clean and efficient TODO list web application that helps you organize tasks effortlessly. This project is designed with basic web technologies to provide a smooth and responsive user experience.
+
+🚀 **Live Demo**: [https://todo-app-sigma-azure.vercel.app/](https://todo-app-sigma-azure.vercel.app/)
+
+---
+
+## ✨ Features
+
+- ✅ Add new tasks with ease
+- 🗑️ Delete tasks individually
+- 📌 Mark tasks as completed or pending
+- 🧹 Clear all completed tasks
+- 📱 Fully responsive design — works well on mobile and desktop
+
+---
+
+## 🛠️ Technologies Used
+- **JavaScript (ES6+)** – Core logic and interactivity
+- **HTML5 & CSS3** – Semantic structure and clean styling
+- **Vercel** – For seamless deployment and hosting
+
+---
+
+## 📁 Project Structure
+
